@@ -9,15 +9,17 @@
        alt="snake" /></a>
 </div>
 
-<p align='center'>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
+
 
 
 -------------------
 <h2>About me :</h2>
 <P>Hello, nice to meet you, I'm Leonel, a Full Stack developer with a constant desire to learn. I love learning new things and showing what I learn in the code, I push myself to learn and become a better programmer.</P>
+
 -------------------
+<p align='center'>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<br>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
@@ -40,4 +42,4 @@
 </p>
 
 -------------------
-<h2  align="center">Welcome to my Repository<img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :</h2>
+<h2  align="center">Welcome to my Repository<img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> </h2>
