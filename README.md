@@ -3,6 +3,7 @@
   <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I'm Leonel 😊
 </h1>
 
+
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
@@ -13,7 +14,10 @@
 <br>
 
 
-
+-------------------
+<h2>About me :</h2>
+<P>Hello, nice to meet you, I'm Leonel, a Full Stack developer with a constant desire to learn. I love learning new things and showing what I learn in the code, I push myself to learn and become a better programmer.</P>
+-------------------
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
@@ -34,3 +38,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
+
+-------------------
+<h2  align="center">Welcome to my Repository<img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :</h2>
