@@ -1,42 +1,128 @@
-
 <h1 align="center">
-  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Hi, I'm Leonel 😊
+  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35">  
+  Hey, I'm <strong>Leonel Callejas</strong> 👨‍💻
 </h1>
 
-
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake"/>
 </div>
 
+---
 
+## 👤 About Me  
+Hola, ¡un gusto! Soy **Leonel**, un desarrollador **Full Stack** apasionado por aprender nuevas tecnologías, mejorar mis habilidades y construir proyectos reales que reflejen todo lo que voy aprendiendo día a día.  
+Me encanta trabajar con **Laravel**, **PHP moderno**, **TailwindCSS**, **MySQL** y herramientas de desarrollo como **Artisan**, **Tinker**, **Git**, **XAMPP** y más.
 
+Siempre estoy estudiando, creando, depurando y creciendo como programador. 🚀
 
--------------------
-<h2>About me :</h2>
-<P>Hello, nice to meet you, I'm Leonel, a Full Stack developer with a constant desire to learn. I love learning new things and showing what I learn in the code, I push myself to learn and become a better programmer.</P>
+---
 
--------------------
-<p align='center'>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
-<h3 align="center">Languages and Tools:</h3>
+## 🛠️ Tech Stack  
 
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
+<h3 align="center">Technologies I use and love</h3>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
+<table align="center">
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<b>Laravel 12</b><br>
+<img height="55px" src="https://laravel.com/img/logomark.min.svg">
+</td>
+
+<td align="center" width="20%">
+<b>PHP</b><br>
+<img height="55px" src="https://www.php.net/images/logos/new-php-logo.svg">
+</td>
+
+<td align="center" width="20%">
+<b>TailwindCSS</b><br>
+<img height="55px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<b>MySQL</b><br>
+<img height="55px" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
+</td>
+
+<td align="center" width="20%">
+<b>Git & GitHub</b><br>
+<img height="55px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png">
+</td>
+
+<td align="center" width="20%">
+<b>JavaScript</b><br>
+<img height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<b>HTML5</b><br>
+<img height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</td>
+
+<td align="center" width="20%">
+<b>CSS3</b><br>
+<img height="55px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</td>
+
+<td align="center" width="20%">
+<b>Python</b><br>
+<img height="55px" src="https://www.python.org/static/community_logos/python-logo.png">
+</td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
+## 🔧 Tools I Work With
+
+- 🧰 **Artisan**, **Tinker**
+- 🗄️ **XAMPP**, **phpMyAdmin**
+- ⚙️ **VS Code**, **Composer**, **Vite**
+- 📦 NPM / Node.js
+- 🧪 Postman
+- 🐍 Python for utilities
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=leonel&show_icons=true&theme=tokyonight&hide_border=true" height="150">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=leonel&theme=tokyonight&hide_border=true" height="150">
 </p>
 
--------------------
-<h2  align="center">Welcome to my Repository<img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> </h2>
+---
+
+## 🎯 What I'm Working On  
+- 🚀 Proyecto **“ARABIC 12”** — Sistema de inventarios en Laravel 12  
+- 📚 Mejorando mis skills en **PHP 8.3, Laravel, Tailwind y MySQL**  
+- 🌱 Explorando más frameworks y fortaleciendo buenas prácticas
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+<a href="https://www.linkedin.com" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
+</a>
+
+<a href="https://github.com" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40">
+</a>
+
+<a href="mailto:tuemail@example.com">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40">
+</a>
+</p>
+
+---
+
+<h2 align="center">✨ Thanks for Visiting ✨</h2>
+
