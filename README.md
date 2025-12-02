@@ -6,10 +6,10 @@
 ---
 
 ## 👤 About Me  
-Hola, ¡un gusto! Soy **Leonel**, un desarrollador **Full Stack** apasionado por aprender nuevas tecnologías, mejorar mis habilidades y construir proyectos reales que reflejen todo lo que voy aprendiendo día a día.  
-Me encanta trabajar con **Laravel**, **PHP moderno**, **TailwindCSS**, **MySQL** y herramientas de desarrollo como **Artisan**, **Tinker**, **Git**, **XAMPP** y más.
+Hello, nice to meet you! I'm Leonel, a Full Stack Developer passionate about learning new technologies, improving my skills, and building real projects that reflect everything I’ve learned along the way.
+I love working with Laravel, modern PHP, TailwindCSS, MySQL, and development tools such as Artisan, Tinker, Git, XAMPP, and more.
 
-Siempre estoy estudiando, creando, depurando y creciendo como programador. 🚀
+I'm always studying, creating, debugging, and growing as a developer. 🚀
 
 ---
 
