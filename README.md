@@ -96,7 +96,7 @@ I'm always studying, creating, debugging, and growing as a developer. 🚀
 ---
 
 ## 🎯 What I'm Working On  
-- 🚀 Proyecto **“ARABIC 12”** — Sistema de inventarios en Laravel 12  
+- 🚀 Proyecto **“LARAVEL 12”** — Sistema de inventarios en Laravel 12  
 - 📚 Mejorando mis skills en **PHP 8.3, Laravel, Tailwind y MySQL**  
 - 🌱 Explorando más frameworks y fortaleciendo buenas prácticas
 
